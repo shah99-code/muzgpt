@@ -81,7 +81,7 @@ const Main = () => {
                         </div>
                     </div>
                     <p className="bottom-info">
-                        Muzgpt may display inaccurate info, including about people, so double-check its responses.
+                    MuzGPT may not be perfect. Always verify critical info.
                         <a href="#"></a>
                     </p>
                 </div>
