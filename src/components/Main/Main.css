@@ -36,7 +36,7 @@ body {
 }
 
 .main .greet span {
-    background: -webkit-linear-gradient(16deg,#067cea, #b9a41ce0);
+    background: -webkit-linear-gradient(16deg,#067cea,#ea5206, #c9c946b0);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
