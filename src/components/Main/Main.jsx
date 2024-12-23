@@ -71,6 +71,7 @@ const Main = () => {
                                           onSent();
                                       }
                                   }}
+                                
                                   value={input}
                                   type="text"
                                  placeholder="Ask MuzGpt"

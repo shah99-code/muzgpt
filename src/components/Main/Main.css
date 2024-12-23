@@ -219,9 +219,10 @@ body {
         max-width: 900px;
         width: -webkit-fill-available;
     }
+    
 }
 
-@media(max-width: 600px) {
+@media(max-width: 500px) {
     .main {
         overflow: hidden;
         height: 100lvh;
@@ -277,6 +278,7 @@ body {
     .main .search-box {
         padding: 5px 10px;
         height: 55px;
+        width: 300px;
     }
 
     .search-box div {
@@ -305,4 +307,19 @@ body {
     }
     
 }
+@media (min-width: 390px) and (max-width: 928px) {
+    .main .search-box {
+        padding: 5px 10px;
+        height: 55px;
+        width: 360px;
+    }
+}
+@media (min-width: 430px) and (max-width: 932px) {
+    .main .search-box {
+        padding: 5px 10px;
+        height: 55px;
+        width: 385px;
+    }
+}
+
 
