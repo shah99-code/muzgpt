@@ -81,7 +81,7 @@ const Main = () => {
                         </div>
                     </div>
                     <p className="bottom-info">
-                    MuzGPT may not be perfect. .
+                    MuzGPT may not be perfect. Always verify critical info.
                         <a href="#"></a>
                     </p>
                 </div>
